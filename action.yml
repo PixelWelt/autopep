@@ -1,8 +1,9 @@
 name: 'Autopep'
 description: 'This action checks for pep8 issues in your code and comments on the PR'
 author: 'Soeren Herrmann | Pixelwelt'
-icon: check-circle
-color: yellow
+branding:
+  icon: "check-circle"
+  color: "yellow"
 
 on: 
   pull_request:
