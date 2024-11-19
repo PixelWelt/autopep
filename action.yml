@@ -1,3 +1,7 @@
+name: 'Autopep'
+description: 'This action checks for pep8 issues in your code and comments on the PR'
+author: 'Soeren Herrmann | Pixelwelt'
+
 on: 
   pull_request:
     branches:
